@@ -1,0 +1,17 @@
+{
+	"name": "FileLocation",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\AzureProject",
+			"userId": "DESKTOP-CG29R1N\\hp",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlOGRiZjVhMS1lZTNjLTRlZDEtOGE2Ni04OTc3ZGQ5NThjZmQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "onpremToAureIR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
