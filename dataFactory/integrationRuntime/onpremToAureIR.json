@@ -1,0 +1,6 @@
+{
+	"name": "onpremToAureIR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

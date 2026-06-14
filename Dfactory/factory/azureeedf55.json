@@ -1,0 +1,15 @@
+{
+	"name": "azureeedf55",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bfded46-16c0-4ce2-9d03-b0a63143c99c",
+		"tenantId": "2cff7ee2-d123-4765-874a-3c6318d076eb"
+	}
+}
